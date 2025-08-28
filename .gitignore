@@ -180,5 +180,9 @@ cython_debug/
 deepseek/api/milvus_docs/*
 mcp/dev*
 a2a/*
+<<<<<<< HEAD
 .idea
 .idea/*
+=======
+.DS_Store
+>>>>>>> upstream/main
